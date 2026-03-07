@@ -1,0 +1,55 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Directories for build output (common convention)
+bin/
+build/
+obj/
+
+# Package files
+*.class
+*.dll
+*.exe
+*.iso
+*.jar
+*.lock
+*.log
+*.pyd
+*.war
+*.zip
+
+# OS and Editor files
+.DS_Store
+.vscode/
+.idea/
+*.suo
+*.user
+*.config.user
+*.users
+*.swp  # Vim swap files
