@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PZ7", "PZ7\PZ7.vcxproj", "{
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestPZ7", "PZ7\TestPZ7.vcxproj", "{C4E0D9F2-8C92-4F6A-B0E5-9E7EFAB8C001}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PZ8", "PZ8\PZ8.vcxproj", "{76C68033-44DC-4587-9B02-F49C32A90498}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -111,6 +113,14 @@ Global
 		{C4E0D9F2-8C92-4F6A-B0E5-9E7EFAB8C001}.Release|x64.Build.0 = Release|x64
 		{C4E0D9F2-8C92-4F6A-B0E5-9E7EFAB8C001}.Release|x86.ActiveCfg = Release|Win32
 		{C4E0D9F2-8C92-4F6A-B0E5-9E7EFAB8C001}.Release|x86.Build.0 = Release|Win32
+		{76C68033-44DC-4587-9B02-F49C32A90498}.Debug|x64.ActiveCfg = Debug|x64
+		{76C68033-44DC-4587-9B02-F49C32A90498}.Debug|x64.Build.0 = Debug|x64
+		{76C68033-44DC-4587-9B02-F49C32A90498}.Debug|x86.ActiveCfg = Debug|Win32
+		{76C68033-44DC-4587-9B02-F49C32A90498}.Debug|x86.Build.0 = Debug|Win32
+		{76C68033-44DC-4587-9B02-F49C32A90498}.Release|x64.ActiveCfg = Release|x64
+		{76C68033-44DC-4587-9B02-F49C32A90498}.Release|x64.Build.0 = Release|x64
+		{76C68033-44DC-4587-9B02-F49C32A90498}.Release|x86.ActiveCfg = Release|Win32
+		{76C68033-44DC-4587-9B02-F49C32A90498}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
