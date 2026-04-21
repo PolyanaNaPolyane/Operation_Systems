@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.37203.1 d17.14
+VisualStudioVersion = 17.14.37203.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LB1", "LB1\LB1.vcxproj", "{59C5E3E4-6B60-40EE-85C6-9AB78C6FF81D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RSADynamicLibrary", "LB2\RSADynamicLibrary\RSADynamicLibrary.vcxproj", "{94839490-BEB8-4DD8-B301-157D693C8D45}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestRSA", "LB2\TestRSA\TestRSA.vcxproj", "{5B25C3B7-727C-49DA-8E17-384E907B7DCD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,22 @@ Global
 		{59C5E3E4-6B60-40EE-85C6-9AB78C6FF81D}.Release|x64.Build.0 = Release|x64
 		{59C5E3E4-6B60-40EE-85C6-9AB78C6FF81D}.Release|x86.ActiveCfg = Release|Win32
 		{59C5E3E4-6B60-40EE-85C6-9AB78C6FF81D}.Release|x86.Build.0 = Release|Win32
+		{94839490-BEB8-4DD8-B301-157D693C8D45}.Debug|x64.ActiveCfg = Debug|x64
+		{94839490-BEB8-4DD8-B301-157D693C8D45}.Debug|x64.Build.0 = Debug|x64
+		{94839490-BEB8-4DD8-B301-157D693C8D45}.Debug|x86.ActiveCfg = Debug|Win32
+		{94839490-BEB8-4DD8-B301-157D693C8D45}.Debug|x86.Build.0 = Debug|Win32
+		{94839490-BEB8-4DD8-B301-157D693C8D45}.Release|x64.ActiveCfg = Release|x64
+		{94839490-BEB8-4DD8-B301-157D693C8D45}.Release|x64.Build.0 = Release|x64
+		{94839490-BEB8-4DD8-B301-157D693C8D45}.Release|x86.ActiveCfg = Release|Win32
+		{94839490-BEB8-4DD8-B301-157D693C8D45}.Release|x86.Build.0 = Release|Win32
+		{5B25C3B7-727C-49DA-8E17-384E907B7DCD}.Debug|x64.ActiveCfg = Debug|x64
+		{5B25C3B7-727C-49DA-8E17-384E907B7DCD}.Debug|x64.Build.0 = Debug|x64
+		{5B25C3B7-727C-49DA-8E17-384E907B7DCD}.Debug|x86.ActiveCfg = Debug|Win32
+		{5B25C3B7-727C-49DA-8E17-384E907B7DCD}.Debug|x86.Build.0 = Debug|Win32
+		{5B25C3B7-727C-49DA-8E17-384E907B7DCD}.Release|x64.ActiveCfg = Release|x64
+		{5B25C3B7-727C-49DA-8E17-384E907B7DCD}.Release|x64.Build.0 = Release|x64
+		{5B25C3B7-727C-49DA-8E17-384E907B7DCD}.Release|x86.ActiveCfg = Release|Win32
+		{5B25C3B7-727C-49DA-8E17-384E907B7DCD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
