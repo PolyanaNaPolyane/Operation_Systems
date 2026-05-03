@@ -1,0 +1,6 @@
+LIBRARY RSADynamicLibrary
+
+EXPORTS
+    RSA_GenerateKeys
+    RSA_Encrypt
+    RSA_Decrypt
